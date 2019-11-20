@@ -2,8 +2,11 @@
 The goal of our agent is to collect yellow bananas and don't collect blue bananas.
 The problem is solved when the agent receives 13+ score in average over 100 episodes
 
-# Reward:
-- Collect Yellow Banana: +1
+# Game Over
+The game ends after 300 steps
+
+# Rewards:
+- Collect Yellow Bananas: +1
 - Collect Blue Bananass: -1
 - Don't collect Bananas: 0
 
@@ -17,3 +20,6 @@ We will create a Model that will use the following Algorithm:
 - Prioritize Experience Replay - PPER
 - Dueling DQN
 - Double DQN
+
+# How to Run the Model
+I used he Workspace provide by Nanodegree Program. I could't run localy
