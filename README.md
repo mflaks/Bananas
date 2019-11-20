@@ -11,11 +11,11 @@ The game ends after 300 steps
 - Don't collect Bananas: 0
 
 # Environment:
-- State: Theare are 37 features on each State
+- State: There are 37 features on each State
 - Action: There are 4 possible actions to take in each State
 
 # The Model:
-We will create a Model that will use the following Algorithm:
+We will create a DQN Model that will use the following Algorithm:
 - SumTree
 - Prioritize Experience Replay - PPER
 - Dueling DQN
