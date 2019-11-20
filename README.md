@@ -5,7 +5,9 @@ The goal of our agent is to collect yellow bananas and don't collect blue banana
 Reward:
 
 Collect Yellow Banana: +1
+
 Collect Blue Bananas: -1
+
 Don't collect Bananas: 0
 
 
