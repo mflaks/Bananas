@@ -53,8 +53,8 @@ After you have followed the instructions above, open Navigation.ipynb (located i
 
 # How to Run the Code
 - Open the file Navigation
-- You the cell to Import the libraries
-- Run the cells to create the Classes: SumTree, PER, Network, Agent
+- Run the cell: Import the libraries
+- Run the cells SumTree, PER, Network, Agent in order to create classes that your DQN Model will need.
 - Select the Hyperparameters you desire and run the cell to create the DQN Model. The trained parameters will be automaticaly saved as parameters3.pt
 - Run the cell TEST the Model to see how your agent is doing with the trained parameters
 
