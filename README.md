@@ -5,6 +5,8 @@
 The goal of our agent is to collect yellow bananas and don't collect blue bananas.
 The problem is solved when the agent receives 13+ score in average over 100 episodes
 
+![bananas](Bananas.JPG)
+
 ## Game Over
 The game ends after 300 steps
 
@@ -42,8 +44,11 @@ Follow the instructions in the DRLND GitHub repository https://github.com/udacit
 For this project, you will not need to install Unity - this is because we have already built the environment for you, and you can download it from one of the links below. You need only select the environment that matches your operating system:
 
 Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
+
 Mac OSX: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip
+
 Windows (32-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windohttps://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip
+
 Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip
 
 Then, place the file in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
